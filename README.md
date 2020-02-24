@@ -15,9 +15,11 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 Modifications to HTML Files
 ===========================
 
-1. Had to change the image sources so they had their correct image displayed (instead of cover.jpg being used every time)
+1. Removed their styling and linked my theme
 
-2. Added a caption to gutenberg 3 cover image, since there were no captions to show the styling changes
+2. Had to change the image sources so they had their correct image displayed (instead of cover.jpg being used every time)
+
+3. Added a caption to gutenberg 3 cover image, since there were no captions to show the styling changes
 
 References
 ==========
