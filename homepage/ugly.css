@@ -2,14 +2,24 @@ body {background-image:url('images/stars.jpg');
     font-family: "Comic Sans MS", cursive, sans-serif;
     text-align: center;}
 
-h1, h2, p {margin-left: 20%;
+h1, h2, h3, p {margin-left: 20%;
     margin-right: 20%;}
 
 h1 {color: #00b7ff;
     font-size: 300%;}
 
-h2 {color: #dff51e;
+h2, h4, h5 {color: #dff51e;
     font-size: 175%;}
+
+h3 {color: #ff0e0e;
+    font-size: 125%;
+    margin-bottom: 0px;}
+
+/* Important Note: h4 and h5 only exist to make the html files
+    match, they serve no extra purpose in the ugly page */
+h4 {margin-bottom: 0px;}
+
+h5 {margin-top: 0px;}
 
 img {width: 10%;
     height: 10%;
@@ -31,7 +41,8 @@ li {display: inline;
 a  {color: #ffffff;
     text-decoration: none;}
 
-p {color: #f86db3;}
+p  {color: #f86db3;
+    font-size: 110%;}
 
 .sidebar {border: 2px solid #ffffff;
     width: 20%;
