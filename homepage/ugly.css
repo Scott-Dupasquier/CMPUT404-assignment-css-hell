@@ -1,0 +1,38 @@
+body {background-image:url('images/stars.jpg');
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: center;}
+
+h1, h2, p {margin-left: 20%;
+    margin-right: 20%;}
+
+h1 {color: #00b7ff;
+    font-size: 300%;}
+
+h2 {color: #dff51e;
+    font-size: 175%;}
+
+img {width: 10%;
+    height: 10%;
+    float: right;
+    margin-right: 8%;}
+
+ul {list-style-type: none;
+    background-color: #fa3e3e;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+    font-size: 120%;
+    margin-left: 25%;
+    margin-right: 25%;}
+
+li {display: inline;
+    padding: 20px;}
+
+a  {color: #ffffff;
+    text-decoration: none;}
+
+p {color: #f86db3;}
+
+.sidebar {border: 2px solid #ffffff;
+    width: 20%;
+    float: left;}
